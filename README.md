@@ -10,10 +10,10 @@ $ npm install pepita-remover
 
 ## Usage
 
-Call ```pepita-remover```and list the files that you want to clean.
+Call ```pepita-remover``` and list the files that you want to clean.
 
 ``` console
-pepita-remover index.html about.html contact.html
+$ pepita-remover index.html about.html contact.html
 ```
 
 ## Known Bugs
