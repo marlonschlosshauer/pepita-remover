@@ -8,7 +8,7 @@
 	"bin": {
 		"pepita-remover": "pepita-remover.js"
 	},
-	"keywords": ['pepita'],
+	"keywords": ["pepita"],
 	"author": "Marlon Schlosshauer",
 	"license": "MIT",
 	"description": "Removes dummy css classes that are used by pepita",
