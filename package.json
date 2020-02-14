@@ -1,0 +1,19 @@
+{
+	"name": "pepita-remover",
+	"version": "1.0.0",
+	"main": "pepita-remover.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"bin": {
+		"pepita-remover": "./pepita-remover.js"
+	},
+	"keywords": [],
+	"author": "Marlon Schlosshauer",
+	"license": "ISC",
+	"description": "",
+	"dependencies": {
+		"fs": "0.0.1-security",
+		"process": "^0.11.10"
+	}
+}
