@@ -6,14 +6,23 @@
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
 	"bin": {
-		"pepita-remover": "./pepita-remover.js"
+		"pepita-remover": "pepita-remover.js"
 	},
-	"keywords": [],
+	"keywords": ['pepita'],
 	"author": "Marlon Schlosshauer",
-	"license": "ISC",
-	"description": "",
+	"license": "MIT",
+	"description": "Removes dummy css classes that are used by pepita",
 	"dependencies": {
 		"fs": "0.0.1-security",
 		"process": "^0.11.10"
-	}
+	},
+	"devDependencies": {},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/marlonschlosshauer/pepita-remover.git"
+	},
+	"bugs": {
+		"url": "https://github.com/marlonschlosshauer/pepita-remover/issues"
+	},
+	"homepage": "https://github.com/marlonschlosshauer/pepita-remover#readme"
 }
