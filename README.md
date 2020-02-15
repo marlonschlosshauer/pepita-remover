@@ -5,7 +5,7 @@ Removes dummy css classes that are used by [pepita](https://github.com/marlonsch
 This package is available from [npm](https://www.npmjs.com/) :
 
 ``` console
-$ npm install pepita-remover
+$ npm install -g pepita-remover
 ```
 
 ## Usage
